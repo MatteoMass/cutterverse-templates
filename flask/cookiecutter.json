@@ -1,0 +1,5 @@
+{
+    "component_name": "The name of the component that will be created.",
+    "package_name": "The name of the package that will be created",
+    "api_prefix": "The api prefix"
+}
