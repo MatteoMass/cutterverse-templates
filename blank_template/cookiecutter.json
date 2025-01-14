@@ -1,3 +1,4 @@
 {
-    "project_name": "The name of the project that will be crated"
+    "component_name": "The name of the component that will be created.",
+    "package_name": "The name of the package that will be created"
 }
